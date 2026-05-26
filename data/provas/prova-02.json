@@ -1,0 +1,845 @@
+{
+  "prova": "02",
+  "questions": [
+    {
+      "number": 1,
+      "text": "O tubo que liga a plataforma fixa de produção aos dutos submarinos e que normalmente são colocados na parte externa das jaquetas sendo fixados por um suporte e guiado por braçadeiras é:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tubo I."
+        },
+        {
+          "label": "B",
+          "text": "Condutor articulado (Mariner riser)."
+        },
+        {
+          "label": "C",
+          "text": "Duto de interligação (riser)."
+        },
+        {
+          "label": "D",
+          "text": "Tubo coletoe de óleo (sump)."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Como deve ser descrito o estado de corrosão de uma superfície metálica que apresenta em toda a sua extensão cavidades de fundo em forme angular e de profundidade maior que seu diâmetro:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corrosão p/ pites severa localizada."
+        },
+        {
+          "label": "B",
+          "text": "Corrosão p/ pites severa generalizada."
+        },
+        {
+          "label": "C",
+          "text": "Corrosão alveolar severa generalizada."
+        },
+        {
+          "label": "D",
+          "text": "Corrosão por cavidade angular."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Na preparação de superfície para exame visual submarino não deve ser utilizado:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raspadeiras manuais."
+        },
+        {
+          "label": "B",
+          "text": "Martelete de agulhas."
+        },
+        {
+          "label": "C",
+          "text": "Escova pneumática."
+        },
+        {
+          "label": "D",
+          "text": "Jato dágua com alta pressão."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "A formação de bolhas associada ao enferrujamento de uma superfície pintada deve ser relatada como:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desfolhamento e corrosão."
+        },
+        {
+          "label": "B",
+          "text": "Embolhamento e erosão."
+        },
+        {
+          "label": "C",
+          "text": "Empolamento com enferrujamento."
+        },
+        {
+          "label": "D",
+          "text": "Crateramento e rachamento."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Assinale a afirmativa errada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solda de topo é solda executada em uma junta de topo."
+        },
+        {
+          "label": "B",
+          "text": "Solda heterogênea é a solda cuja composição química da zona fundida difere significativamente do metal de base."
+        },
+        {
+          "label": "C",
+          "text": "Solda autógena é a solda de fusão sem participação de metal de base."
+        },
+        {
+          "label": "D",
+          "text": "Solda de aresta é a solda executada no bisel de um chanfro para reconstituir a forma original da peça antes da execução do chanfro."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Dadas as atividades abaixo: “Quais são as atividades que devem ser verificadas no exame visual de anodos”.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1;3;5"
+        },
+        {
+          "label": "B",
+          "text": "Todas as alternativas devem ser verificadas."
+        },
+        {
+          "label": "C",
+          "text": "1;2;3"
+        },
+        {
+          "label": "D",
+          "text": "1;2;4"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "Assinale a afirmativa correta:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A aferição de instrumentos é a comparação com os seus respectivos padrões para conhecer seus erros."
+        },
+        {
+          "label": "B",
+          "text": "A aferição dos instrumentos deve ser feita todo dia no início das atividades de inspeção visual."
+        },
+        {
+          "label": "C",
+          "text": "A aferição de instrumentos é uma atividade de verificação do funcionamento dos instrumentos."
+        },
+        {
+          "label": "D",
+          "text": "Os dados de ajustes dos instrumentos executado durante a aferição devem ser registrados."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "São defeitos visuais encontrados na inspeção em serviços de mangotes marítimos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abrasão, arame exposto, corte, saliência, dobramento excessivo, saliência e reentrância longitudinal, vestígio de vazamento de óleo."
+        },
+        {
+          "label": "B",
+          "text": "Falta de sinalização, corrosão na capa externa, amassamento, mossas por impacto de sucata, incrustação."
+        },
+        {
+          "label": "C",
+          "text": "Penetração insuficiente nos passes de soldagem da raiz, cisalhamento de revestimento, anodos gastos, roscas espanadas."
+        },
+        {
+          "label": "D",
+          "text": "Espessuras reduzidas, corrosão excessiva, trincas, inclusão de escória, proteção catódica deficiência."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "Qual das afirmativas abaixo, referentes ao processo de soldagem com o eletrodo revestido é falsa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uma das causas da ocorrência de falta de penetração é a técnica inadequada de soldagem."
+        },
+        {
+          "label": "B",
+          "text": "Trinca interlamelar é freqüentemente causada pela inabilidade do soldador."
+        },
+        {
+          "label": "C",
+          "text": "Uma das causas do aparecimento de falta de fusão é a corrente inadequada de soldagem."
+        },
+        {
+          "label": "D",
+          "text": "Inclusão de escória é freqüentemente provocada pela manipulação inadequada do eletrodo."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Assinale verdadeiro ou falsa em relação a afirmativa abaixo: Ensaio visual é o ensaio não destrutivo básico. Todos os outros ensaios não destrutivos devem ser executados após um bom ensaio visual, que pode ser feito a vista desarmada, com auxílio de lupa ou com aparelho ou instrumento para exame remoto.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falsa."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeira."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Assinale dentre as alternativas abaixo, a descontinuidade que não é detectada na inspeção visual subaquática:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dupla laminação."
+        },
+        {
+          "label": "B",
+          "text": "Concavidade."
+        },
+        {
+          "label": "C",
+          "text": "Falta de fusão."
+        },
+        {
+          "label": "D",
+          "text": "Convexidade."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Quando toda superfície metálica apresenta cavidades com o fundo arredondado e com diâmetro inferior a 10mm, como deve ser descrito este estado de corrosão:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corrosão alveolar severa superficial."
+        },
+        {
+          "label": "B",
+          "text": "Corrosão alveolar tipo II generalizada."
+        },
+        {
+          "label": "C",
+          "text": "Corrosão pitiforme leve generalizada."
+        },
+        {
+          "label": "D",
+          "text": "Corrosão alveolar tipo II localizada."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text": "Assinale a alternativa correta: Os equipamentos elétricos utilizados em ensaio visual subaquático:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Devem ter proteção contra choque."
+        },
+        {
+          "label": "B",
+          "text": "As extremidades dos cabos de alimentação devem permitir a separação dos fios individuais."
+        },
+        {
+          "label": "C",
+          "text": "Devem ter punhos metálicos."
+        },
+        {
+          "label": "D",
+          "text": "Devem ter bastante emendas para facilitar a manutenção."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Dentre os instrumentos auxiliares indicados abaixo assinale aquele que é normalmente empregado na inspeção visual subaquática.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lanterna."
+        },
+        {
+          "label": "B",
+          "text": "Lupa com iluminação própria."
+        },
+        {
+          "label": "C",
+          "text": "Espelho convexo."
+        },
+        {
+          "label": "D",
+          "text": "Luxímetro."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text": "Indique qual das afirmativas abaixo é a correta:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consumível é todo o material empregado na deposição e que se funde originando uma solda."
+        },
+        {
+          "label": "B",
+          "text": "Consumível é todo o material empregado apenas na proteção da solda."
+        },
+        {
+          "label": "C",
+          "text": "Consumível é todo material que se funde originando uma solda."
+        },
+        {
+          "label": "D",
+          "text": "Consumível é todo o material empregado na deposição ou proteção da solda."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text": "O revestimento de massa epóxi se caracteriza por:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ter como defeito característico o empolamento."
+        },
+        {
+          "label": "B",
+          "text": "Pode ser aplicado por trincha em várias mãos."
+        },
+        {
+          "label": "C",
+          "text": "Ser um revestimento de grande espessura, alta dureza e resistência mecânica."
+        },
+        {
+          "label": "D",
+          "text": "Sofrer gretamento quando em superfície submersa."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Assinale verdadeira ou falsa: A capacidade de resolução do ensaio visual pelo método remoto devera ser maior que o direto, pois utiliza equipamentos mais sofisticados.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeira."
+        },
+        {
+          "label": "B",
+          "text": "Falsa."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text": "No processo de soldagem com eletrodo revestido, a escória que se forma na superfície da solda influência a taxa de resfriamento do metal de solda depositada.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeira."
+        },
+        {
+          "label": "B",
+          "text": "Falsa."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Assinale dentre as alternativas abaixo, a descontinuidade ou irregularidade não detectada para inspeção visual subaquática:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sinais de erosão ou assoreamento."
+        },
+        {
+          "label": "B",
+          "text": "Presença de corrosão."
+        },
+        {
+          "label": "C",
+          "text": "Trinca interlamelar."
+        },
+        {
+          "label": "D",
+          "text": "Estado de fixação dos anodos."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Assinale qual das alternativas abaixo representa a quantidade mínima recomendável de luminosidade para inspeção visual subaquática de detalhes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "100 lux."
+        },
+        {
+          "label": "B",
+          "text": "2000 lux."
+        },
+        {
+          "label": "C",
+          "text": "600 lux."
+        },
+        {
+          "label": "D",
+          "text": "300 lux."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text": "São recursos da inspeção visual subaquática.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Partículas magnéticas fluorescentes."
+        },
+        {
+          "label": "B",
+          "text": "Todas as alternativas são corretas."
+        },
+        {
+          "label": "C",
+          "text": "Fotografia e televisionamento."
+        },
+        {
+          "label": "D",
+          "text": "Medição de potencial e espessura."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text": "Rechupe numa peça fundida, é causado pela:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retenção de gases no líquido devido ao aumento da sua viscosidade para queda de temperatura."
+        },
+        {
+          "label": "B",
+          "text": "Quebra do molde de areia."
+        },
+        {
+          "label": "C",
+          "text": "Contração de volume que ocorre durante a passagem do estado líquido para o sólido."
+        },
+        {
+          "label": "D",
+          "text": "Inclusão de escória."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Na inspeção subaquática, ensaio visual, podemos utilizar como meio auxiliares:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Medidor de pites."
+        },
+        {
+          "label": "B",
+          "text": "Todas as alternativas corretas."
+        },
+        {
+          "label": "C",
+          "text": "Máquina fotográfica."
+        },
+        {
+          "label": "D",
+          "text": "trena."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text": "A inspeção subaquática, ensaio visual, não tem como objetivo na inspeção de plataformas de aço verificar:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verificar o estado do revestimento."
+        },
+        {
+          "label": "B",
+          "text": "Existência de danos mecânicos tais como empenos, furos, cortes, amassamentos, abrasão ou qualquer outro tipo registrando dimensões e posicionamento."
+        },
+        {
+          "label": "C",
+          "text": "Verificar a espessura das juntas tubulares nas pernas da plataforma."
+        },
+        {
+          "label": "D",
+          "text": "A presença de corrosão, classificando."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Qual das afirmativas abaixo não é aplicável ao processo de soldagem com eletrodo revestido.",
+      "options": [
+        {
+          "label": "A",
+          "text": "É possível soldar em todas as posições."
+        },
+        {
+          "label": "B",
+          "text": "A qualidade da solda independe da habilidade do soldador."
+        },
+        {
+          "label": "C",
+          "text": "É aplicável em locais de difícil acesso."
+        },
+        {
+          "label": "D",
+          "text": "É possível soldar todos os tipos de chanfros."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text": "No processo manual com eletrodo revestido a proteção da poça de fusão deve-se:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baixa pressão dos gases gerado no arco elétrico."
+        },
+        {
+          "label": "B",
+          "text": "Ao óxido de ferro formado na superfície do metal líquido."
+        },
+        {
+          "label": "C",
+          "text": "A elevada temperatura do arco elétrico."
+        },
+        {
+          "label": "D",
+          "text": "A decomposição do revestimento do eletrodo."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Entende-se por zona de transição (splash zone) a parte da estrutura que, embora não esteja sempre submersa, está sujeita a ficar molhada temporariamente devido a ação da onda, variação de maré e respingos.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeiro."
+        },
+        {
+          "label": "B",
+          "text": "falso."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text": "O tubo que vai desde o convés inferior de perfuração das plataformas semissubmersíveis ou navios-sonda até a cabeça do poço, no fundo do mar, onde a sua parte inferior é fixada através de uma junta esférica e um conector hidráulico chama-se:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Condutor articulado (mariner riser)."
+        },
+        {
+          "label": "B",
+          "text": "Tubo I."
+        },
+        {
+          "label": "C",
+          "text": "Casing."
+        },
+        {
+          "label": "D",
+          "text": "Tubo J."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Assinalar falsa ou verdadeira: Mordedura é uma descontinuidade localizada na margem da solda criando entalhe mecânico na região de fusão favorecendo o aparecimento de trincas devido à concentração de tensões podendo causar falha na estrutura.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeira."
+        },
+        {
+          "label": "B",
+          "text": "Falsa."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text": "Quais das descontinuidades abaixo seriam detectadas em juntas circunferências de tubulação, soldadas pelo lado externo pelo processo manual com eletrodo revestido e inspecionadas visualmente pelo lado interno:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Porosidade agrupada, falta de fusão, mordedura e desalinhamento."
+        },
+        {
+          "label": "B",
+          "text": "Trinca transversal, mordedura na raiz, penetração excessiva e deposição insuficiente."
+        },
+        {
+          "label": "C",
+          "text": "Embicamento, concavidade, falta de fusão e rechupe de cratera."
+        },
+        {
+          "label": "D",
+          "text": "Concavidade, falta de fusão, falta de penetração, penetração excessiva."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text": "As atividades de inspeção visual de erosão e ou assoreamento do leito marinho, revestimento flecha máxima entre vão livres danos mecânicos e anodos, se aplicam em:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dutos de aço para transporte de petróleo."
+        },
+        {
+          "label": "B",
+          "text": "Estruturas de plataformas de concreto."
+        },
+        {
+          "label": "C",
+          "text": "Mangotes marítimos flutuantes."
+        },
+        {
+          "label": "D",
+          "text": "Sistema de amarração c bóias."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Assinale a afirmativa errada, quanto aos princípios da inspeção subaquática, ensaio visual:",
+      "options": [
+        {
+          "label": "A",
+          "text": "O ensaio visual é o ensaio não destrutivo básico."
+        },
+        {
+          "label": "B",
+          "text": "Todos os outros ensaios não destrutivos devem ser executados após um bom ensaio visual."
+        },
+        {
+          "label": "C",
+          "text": "O ensaio visual se aplica de uma maneira geral, na detecção de irregularidades superficiais."
+        },
+        {
+          "label": "D",
+          "text": "Nenhuma das respostas."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Assinale a alternativa correta: O ensaio visual direto só deverá ser realizado quando o acesso é suficiente para que a vista se localize a uma distância.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Superior a 600mm em relação a superfície a ser examinada"
+        },
+        {
+          "label": "B",
+          "text": "Não superior a 600mm em relação a superfície a ser examinada"
+        },
+        {
+          "label": "C",
+          "text": "Nenhuma das alternativas."
+        },
+        {
+          "label": "D",
+          "text": "Não superior a 700mm em relação a superfície a ser examinada e um ângulo não inferior a 30 graus, em relação a mesma superfície."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "text": "Quando são visíveis alguns alvéolos de pequena profundidade espalhados aleatoriamente pela superfície metálica, como deve ser descrito este estado de corrosão.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corrosão alveolar dispersa."
+        },
+        {
+          "label": "B",
+          "text": "Corrosão por pites aleatória."
+        },
+        {
+          "label": "C",
+          "text": "Corrosão alveolar aleatória."
+        },
+        {
+          "label": "D",
+          "text": "Corrosão alveolar severa."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "text": "No processo de soldagem com eletrodo revestido, quando se diz que a soldagem é com polaridade inversa significa que:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A peça esta ligada ao pólo positivo da máquina de solda."
+        },
+        {
+          "label": "B",
+          "text": "O eletrodo está ligado ao pólo negativo da máquina de solda."
+        },
+        {
+          "label": "C",
+          "text": "A corrente usada é alternada."
+        },
+        {
+          "label": "D",
+          "text": "O eletrodo está ligado ao positivo da máquina de solda."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Os ensaios visuais demandam meios auxiliares e complementares para sua execução. Citamos a utilização de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Partícula magnética."
+        },
+        {
+          "label": "B",
+          "text": "Aparelho de medição e espessura."
+        },
+        {
+          "label": "C",
+          "text": "Líquido penetrante"
+        },
+        {
+          "label": "D",
+          "text": "Odômetro de fundo."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Dentre os aparelhos de medição indicados abaixo, assinale aquele que não é normalmente empregado na inspeção visual subaquática.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trena."
+        },
+        {
+          "label": "B",
+          "text": "Fita métrica."
+        },
+        {
+          "label": "C",
+          "text": "Régua graduada."
+        },
+        {
+          "label": "D",
+          "text": "Micrômetro de profundidade."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "text": "O processo de soldagem a arco submerso utiliza o calor gerado para:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fundir o arame e o fluxo que juntamente com o gás de proteção, normalmente argônio, protegem a poça de fusão."
+        },
+        {
+          "label": "B",
+          "text": "Fundir o metal de base, o arame e o fluxo cuja função é a de proteger a poça de fusão."
+        },
+        {
+          "label": "C",
+          "text": "Fundir o fluxo e este fundir o arame."
+        },
+        {
+          "label": "D",
+          "text": "Fundir o arame, sendo que a poça de fusão é protegida pelo gás inerte, normalmente o argônio."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "text": "A mistura de alcatrão de hulha com resina epóxi tem excelente desempenho quando imersa em água é chamada de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silicato inorgânico de zinco."
+        },
+        {
+          "label": "B",
+          "text": "Coaltar-epoxi"
+        },
+        {
+          "label": "C",
+          "text": "Zarcão com primer epoxidico"
+        },
+        {
+          "label": "D",
+          "text": "Zarcão misto – epóxi."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Quais os processos de soldagem aplicáveis a soldagem hiperbárica a seco:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tig,mig e mag."
+        },
+        {
+          "label": "B",
+          "text": "Tig, mig, e eletrodo revestido."
+        },
+        {
+          "label": "C",
+          "text": "Mig com arame tubular, tig e eletrodo revestido."
+        },
+        {
+          "label": "D",
+          "text": "Mig, eletrodo revestido e eletro-gás."
+        }
+      ]
+    }
+  ]
+}

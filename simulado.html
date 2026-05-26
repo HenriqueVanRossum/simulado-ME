@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simulado SM-EV - Inspeção Visual Subaquática</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="page">
+    <header class="header">
+      <h1>Simulado de Inspeção Visual Subaquática</h1>
+      <p class="subtitle">Escolha uma prova e confira o resultado pelo gabarito cadastrado.</p>
+    </header>
+
+    <section class="panel">
+      <div class="selection">
+        <label for="test-select">Selecione a prova:</label>
+        <select id="test-select">
+          <option value="">-- Escolha --</option>
+        </select>
+      </div>
+      <p id="status" class="status hidden" aria-live="polite"></p>
+    </section>
+
+    <section id="questions-container" aria-live="polite"></section>
+    <button id="finish-btn" class="hidden" type="button">Finalizar Simulado</button>
+    <section id="result" class="result hidden" aria-live="polite"></section>
+  </main>
+
+  <script src="data/simulado-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

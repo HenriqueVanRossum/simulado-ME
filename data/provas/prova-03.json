@@ -1,0 +1,817 @@
+{
+  "prova": "03",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Os cabos de alimentação de equipamentos, utilizados em ensaio visual submarino podem ter emendas ou derivações de modo a facilitar o manuseio:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falsa"
+        },
+        {
+          "label": "B",
+          "text": "Verdadeira"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Assinale a afirmativa errada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Face de fusão é a superfície do metal de base que será fundida na soldagem."
+        },
+        {
+          "label": "B",
+          "text": "A face da solda é a superfície exposta da solda, pelo lado onde a solda foi executada."
+        },
+        {
+          "label": "C",
+          "text": "Geometria da junta é a forma e dimensões da seção transversal de uma junta após soldagem."
+        },
+        {
+          "label": "D",
+          "text": "Solda em ângulo é a solda de seção transversal aproximadamente triangular executada em juntas aproximadamente em ângulo reto."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "No processo de soldagem com eletrodo revestido, quando se diz que a soldagem é com polaridade inversa, significa que:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A peça está ligada ao polo positivo da máquina de solda."
+        },
+        {
+          "label": "B",
+          "text": "O eletrodo está ligado ao polo negativo da máquina de solda."
+        },
+        {
+          "label": "C",
+          "text": "A corrente usada é alternada."
+        },
+        {
+          "label": "D",
+          "text": "O eletrodo está ligado ao polo positivo da máquina de solda."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "Assinale a alternativa errada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solda heterogênea é a solda cuja composição química da zona fundida difere significativamente do (s) metal (ais) base."
+        },
+        {
+          "label": "B",
+          "text": "Solda de aresta é a solda executada no bisel de um chanfro para reconstituir a forma original da peça antes da execução do chanfro."
+        },
+        {
+          "label": "C",
+          "text": "Solda autógena é a solda de fusão sem participação de metal de adição."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Os ensaios visuais demandam meios auxiliares e complementares para sua execução. Citamos a utilização de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Partículas magnéticas."
+        },
+        {
+          "label": "B",
+          "text": "Aparelho de medição de espessura."
+        },
+        {
+          "label": "C",
+          "text": "Líquido penetrante."
+        },
+        {
+          "label": "D",
+          "text": "Raspadeira e escova manual."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Qual das alternativas abaixo apresenta os instrumentos normalmente usados na inspeção visual subaquática de anodos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Estilete graduado, régua e fibroscópio."
+        },
+        {
+          "label": "B",
+          "text": "Paquímetro, lupa e lanterna."
+        },
+        {
+          "label": "C",
+          "text": "régua, lanterna e estilete graduado."
+        },
+        {
+          "label": "D",
+          "text": "Régua, estilete graduado e fita métrica."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "Do ponto de vista de proteção contra choques, os cabos de alimentação de equipamentos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nenhuma das respostas."
+        },
+        {
+          "label": "B",
+          "text": "Ser protegidos contra danos mecânicos acidentais."
+        },
+        {
+          "label": "C",
+          "text": "Não precisam ter isolamento resistente a umidade."
+        },
+        {
+          "label": "D",
+          "text": "Devem possuir emendas para facilitar a mautenção."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Dentre as descontinuidades citadas abaixo qual não pertence a peças fundidas:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gota fria."
+        },
+        {
+          "label": "B",
+          "text": "Segregação."
+        },
+        {
+          "label": "C",
+          "text": "Dupla laminação."
+        },
+        {
+          "label": "D",
+          "text": "Rabo de rato."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "A inspeção do leito marinho, na região da jaqueta e proximidades, objetiva verificar:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A ocorrência de erosão ou assoreamento da estrutura."
+        },
+        {
+          "label": "B",
+          "text": "A ocorrência de abrasão ou assoreamento da estrutura."
+        },
+        {
+          "label": "C",
+          "text": "Existem duas respostas corretas."
+        },
+        {
+          "label": "D",
+          "text": "A existência de sucatas."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Assinalar se a afirmativa é verdadeira ou falsa: “a inspeção do leito marinho deve se prender somente a região interna da jaqueta”",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeira."
+        },
+        {
+          "label": "B",
+          "text": "Falsa."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Qual das alternativas abaixo não corresponde a descontinuidades encontradas em forjados e laminados:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dupla laminação."
+        },
+        {
+          "label": "B",
+          "text": "Rabo de rato."
+        },
+        {
+          "label": "C",
+          "text": "Lasca."
+        },
+        {
+          "label": "D",
+          "text": "Dobra de forjamento."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Trinca localizada geralmente no metal de base em forma de degraus:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trinca interlamelar."
+        },
+        {
+          "label": "B",
+          "text": "Trinca ramificada."
+        },
+        {
+          "label": "C",
+          "text": "Trinca irradiante."
+        },
+        {
+          "label": "D",
+          "text": "Trinca longitudinal."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text": "Assinalar verdaddeira ou falsa na afirmativa abaixo: Quando se deseja realçar imperfeições superficiais, a incidência do feixe luminoso deve ser oblíqua em relação a superfície para que se note o efeito de luz e sombra.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falsa."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeira."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Assinalar se a afirmativa e verdadeira ou falsa: Na inspeção do leito marinho deve ser relatado a natureza do solo, o perfil de assoreamento e erosão e a presença de danos mecânicos.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeira."
+        },
+        {
+          "label": "B",
+          "text": "Falsa."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text": "A trinca de fadiga também é conhecida como:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trinca a quente."
+        },
+        {
+          "label": "B",
+          "text": "Trinca transversal."
+        },
+        {
+          "label": "C",
+          "text": "Trinca longitudinal."
+        },
+        {
+          "label": "D",
+          "text": "Trinca interlamelar."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text": "Assinale a alternativa correta.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Margem da solda é a junção entre a face da solda e o metal de base."
+        },
+        {
+          "label": "B",
+          "text": "Todas as afirmativas estão incorretas."
+        },
+        {
+          "label": "C",
+          "text": "Junta dissimilar é a junta soldada cuja composição química da zona fundida difere significativamente do metal de base."
+        },
+        {
+          "label": "D",
+          "text": "Solda dissimilar é a solda executada entre peças de composição química significativamente diferentes."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Qual das alternativas abaixo, referentes ao processo de soldagem com eletrodo revestido é falsa:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uma das causas da ocorrência de falta de penetração é a técnica inadequada de soldagem."
+        },
+        {
+          "label": "B",
+          "text": "Trinca interlamelar é freqüentemente causada pela inabilidade do soldador."
+        },
+        {
+          "label": "C",
+          "text": "Inclusão de escória são freqüentemente provocadas pela manipulação inadequada dos eletrodos."
+        },
+        {
+          "label": "D",
+          "text": "Uma das causas do aparecimento da falta de fusão é a corrente inadequada de soldagem."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text": "De acordo com a norma, trinca é uma descontinuidade tridimensional produzida por uma ruptura local do material.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Dobras de forjamento são causadas por:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subaquecimento do material."
+        },
+        {
+          "label": "B",
+          "text": "Rebarba excessiva."
+        },
+        {
+          "label": "C",
+          "text": "Dobras de metal comprimidas contra a superfície da peça."
+        },
+        {
+          "label": "D",
+          "text": "carepas de óxido incrustadas profundamente na superfície."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Qual dos instrumentos abaixo empregados na inspeção visual subaquática, deve sofrer uma aferição periódica por instituições credenciadas.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lanterna."
+        },
+        {
+          "label": "B",
+          "text": "Holofote."
+        },
+        {
+          "label": "C",
+          "text": "Fita mètrica."
+        },
+        {
+          "label": "D",
+          "text": "Máquina fotográfica. E) Lupa."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text": "Assinale a afirmativa correta:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nenhuma das respostas é correta."
+        },
+        {
+          "label": "B",
+          "text": "Camada é o depósito obtido com um único passe."
+        },
+        {
+          "label": "C",
+          "text": "Porosidade alongada é causada pelo eletrodo de tungstênio."
+        },
+        {
+          "label": "D",
+          "text": "Zona afetada termicamente é a porção do metal de base que sofreu apenas fusão parcial durante a soldagem. E) Solda de aresta é sinônimo de solda em ângulo."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text": "A deterioração manifestada na película ou sob esta, sob a forma e coloração característica do enferrujamento existente, acompanhada ou não do desprendimento localizado da película, chama-se:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Descascamento e corrosão."
+        },
+        {
+          "label": "B",
+          "text": "Escamação de tinta."
+        },
+        {
+          "label": "C",
+          "text": "Erosão e crateramento."
+        },
+        {
+          "label": "D",
+          "text": "Enferrujamento de tinta."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Excesso de metal da zona fundida sobreposto ao metal de base na margem da solda, sem estar fundido ao metal de base. Essa descontinuidade é chamada de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rechupe de cratera."
+        },
+        {
+          "label": "B",
+          "text": "Respingo."
+        },
+        {
+          "label": "C",
+          "text": "Abertura de arco."
+        },
+        {
+          "label": "D",
+          "text": "Sobreposição."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text": "Depressão sob forma de entalhe, localizado no metal de base acompanhando a margem da solda. Essa descontinuidade é chamada de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trinca."
+        },
+        {
+          "label": "B",
+          "text": "Deposição insuficiente."
+        },
+        {
+          "label": "C",
+          "text": "Mordedura."
+        },
+        {
+          "label": "D",
+          "text": "Nenhuma das respostas."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Qual dos seguintes requesitos não é suficiente na inspeção visual subaquática:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Luminosidade de 100 lux."
+        },
+        {
+          "label": "B",
+          "text": "Acuidade visual próxima Jaeger 1."
+        },
+        {
+          "label": "C",
+          "text": "Acuidade visual longingua Snellen 20/20."
+        },
+        {
+          "label": "D",
+          "text": "Visibilidade da água do mar de 5 metros."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text": "Imperfeição local na superfície do metal de base resultante da abertura do arco elétrico. Essa descontinuidade é chamada de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falta de penetração."
+        },
+        {
+          "label": "B",
+          "text": "Falta de fusão."
+        },
+        {
+          "label": "C",
+          "text": "Abertura de arco."
+        },
+        {
+          "label": "D",
+          "text": "Respingo."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Das descontinuidades abaixo: I - mordedura. II- inclusão de escória entre camadas. III- porosidade interna. IV- deposição insuficiente. V- sobreposição. Quais são as descontinuidades que devem ser detectadas no exame visual de soldas:",
+      "options": [
+        {
+          "label": "A",
+          "text": "II e III."
+        },
+        {
+          "label": "B",
+          "text": "I, IV e V."
+        },
+        {
+          "label": "C",
+          "text": "I e V."
+        },
+        {
+          "label": "D",
+          "text": "III, IV e V. E) I e IV."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text": "Assinale falsa ou verdadeira na afirmativa abaixo: Os equipamentos elétricos utlizados em ensaio visual submarino devem ser hermeticamente fechados e as partes metálicas aterradas.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeira."
+        },
+        {
+          "label": "B",
+          "text": "Falsa."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Glóbulos parcialmente incorporados à superfície da peça, provenientes de respingos de metal líquido nas paredes do molde. Essa descontinuidade de fundidos é chamada de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inclusão."
+        },
+        {
+          "label": "B",
+          "text": "Gota fria."
+        },
+        {
+          "label": "C",
+          "text": "Inclusão de areia."
+        },
+        {
+          "label": "D",
+          "text": "Metal frio."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text": "Na inspeção subaquática por ensaio visual podemos utilizar como meio auxiiar:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Todas as alternativas estão corretas."
+        },
+        {
+          "label": "B",
+          "text": "Moldes em epóxi."
+        },
+        {
+          "label": "C",
+          "text": "Medidor de pites."
+        },
+        {
+          "label": "D",
+          "text": "Trena. E) Máquina fotográfica."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text": "Assinale verdadeiro ou falso, em relação a afirmativa abaixo: Ensaio visual é o ensaio não destrutivo básico. Todos os outros ensaios não destrutivos devem ser executados após um bom ensaio visual, que pode ser feito, a vista desarmada, com auxílio de lupa ou com aparelho ou instrumento para exame remoto.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falsa."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Assinale dentre as alternativas abaixo, a descontinuidade que não é detectada na inspeção subaquática por ensaio visual:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dupla laminação."
+        },
+        {
+          "label": "B",
+          "text": "Concavidade."
+        },
+        {
+          "label": "C",
+          "text": "Falta de fusão."
+        },
+        {
+          "label": "D",
+          "text": "Convexidade."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Depressão na superfície da peça causada por ondulações ou falhas na superfície do molde.",
+      "options": [
+        {
+          "label": "A",
+          "text": "SegregaçãoI."
+        },
+        {
+          "label": "B",
+          "text": "Rechupe."
+        },
+        {
+          "label": "C",
+          "text": "Queda de bolo."
+        },
+        {
+          "label": "D",
+          "text": "Rabo de rato."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "text": "Descontinuidade na superfície da peça, tendo a aparência de um vinco, causada por movimentação ou trinca do molde de areia.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poros."
+        },
+        {
+          "label": "B",
+          "text": "Cavidade alongada."
+        },
+        {
+          "label": "C",
+          "text": "Falta de penetração."
+        },
+        {
+          "label": "D",
+          "text": "Veio."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "text": "Saliência superficial constituída de inclusão de areia, recoberta por fina camada de metal poroso.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crosta."
+        },
+        {
+          "label": "B",
+          "text": "Desencontro."
+        },
+        {
+          "label": "C",
+          "text": "Rechupe."
+        },
+        {
+          "label": "D",
+          "text": "Chupagem."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "text": "A formação de bolhas associada ao enferrujamento de uma superfície pintada deve ser relatada como:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desfolhamento e corrosão."
+        },
+        {
+          "label": "B",
+          "text": "Empolamento com enferrujamento."
+        },
+        {
+          "label": "C",
+          "text": "Embolhamento e erosão."
+        },
+        {
+          "label": "D",
+          "text": "Crateramento e rachamento."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Assinale a alternativa correta.",
+      "options": [
+        {
+          "label": "A",
+          "text": "A aferição de instrumentos é a comparação com seus respectivos padrões para conhecer seus erros."
+        },
+        {
+          "label": "B",
+          "text": "A aferição dos instrumentos deve ser feita todo dia no início das atividades de inspeção visual."
+        },
+        {
+          "label": "C",
+          "text": "A aferição de instrumentos é uma atividade de verificação do funcionamento dos instrumentos."
+        },
+        {
+          "label": "D",
+          "text": "Os dados de ajuste dos instrumentos executado durante a aferição devem ser registrados."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Indique qual das afirmativas abaixo é verdadeira.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Uma das funções do revestimento no processo de soldagem com eletrodo revestido, é proteger a alma do eletrodo."
+        },
+        {
+          "label": "B",
+          "text": "No processo de soldagem Tig o calor necessário para a fusão é obtido através do arco elétrico entre um eletrodo de tungstênio não consumível e a peça."
+        },
+        {
+          "label": "C",
+          "text": "O controle do ângulo de inclinação do eletrodo, no processo de soldagem com eletrodo revestido não é uma variável importante na obtenção de uma solda de boa qualidade."
+        },
+        {
+          "label": "D",
+          "text": "Utiizando-se corrente alternada no processo de soldagem com eletrodo revestido, a polaridade é conhecida como alternada."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Assinale verdadeira ou falsa na afirmativa abaixo: Durante o exame do leito marinho deve-se somente relatar a existência de sucata metálica.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falsa."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeira."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Assinale a alternativa correta. “os equipamentos elétricos utilizados em ensaio visual submarino.....:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Devem ter proteção contra choques."
+        },
+        {
+          "label": "B",
+          "text": "Devem possuir alta amperagem."
+        },
+        {
+          "label": "C",
+          "text": "As extremidades dos cabos de alimentação devem permitir a separação dos fios individuais."
+        },
+        {
+          "label": "D",
+          "text": "Podem ter punho metalizado."
+        }
+      ]
+    }
+  ]
+}

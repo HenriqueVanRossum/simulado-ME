@@ -1,0 +1,802 @@
+{
+  "prova": "06",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Indique qual dos tipos citados abaixo, é o que melhor caracteriza a corrosão sofrida por um anodo de sacrifício, utilizado na proteção catódica de uma estrutura submersa em água salgada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corrosão intergranular."
+        },
+        {
+          "label": "B",
+          "text": "Corrosão por eletrolise."
+        },
+        {
+          "label": "C",
+          "text": "Corrosão por microrganismos."
+        },
+        {
+          "label": "D",
+          "text": "Corrosão galvânica."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Qual das alternativas não está relacionada com descontinuidades detectadas na raiz de soldas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mordedura."
+        },
+        {
+          "label": "B",
+          "text": "Perfuração."
+        },
+        {
+          "label": "C",
+          "text": "Excesso de penetração."
+        },
+        {
+          "label": "D",
+          "text": "Falta de fusão."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Assinale a alternativa falsa: na inspeção visual direta podemos verificar:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Problemas no revestimento de epóxi."
+        },
+        {
+          "label": "B",
+          "text": "Incrustações marinhas."
+        },
+        {
+          "label": "C",
+          "text": "Eficiência do sistema de proteção catódica."
+        },
+        {
+          "label": "D",
+          "text": "Deformações e danos mecânicos em geral na estrutura."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "O relatório final de inspeção é feito:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fotografias e televisionamento das ocorrências"
+        },
+        {
+          "label": "B",
+          "text": "Relatório escrito e croqui."
+        },
+        {
+          "label": "C",
+          "text": ". Gravação de relatório em fita VHS, CD ou DVD"
+        },
+        {
+          "label": "D",
+          "text": ". Todas as alternativas estão corretas"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Indique entre os métodos citados abaixo qual não deve ser utilizado p/ a preparação da superfície anterior ao exame visual:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Limpeza manual."
+        },
+        {
+          "label": "B",
+          "text": "Jato de areia."
+        },
+        {
+          "label": "C",
+          "text": "Limpeza com escova hidráulica."
+        },
+        {
+          "label": "D",
+          "text": "Calafetagem."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Um procedimento de inspeção visual é revisado quando:",
+      "options": [
+        {
+          "label": "A",
+          "text": "O supervisor de mergulho solicitar."
+        },
+        {
+          "label": "B",
+          "text": "Quando qualquer item de inspeção da Norma for alterado."
+        },
+        {
+          "label": "C",
+          "text": "Quando o certificado de classe terminar."
+        },
+        {
+          "label": "D",
+          "text": "Quando o tempo de mergulho for inadequado ao trabalho."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "O profissional responsável pela geração de procedimentos de inspeção subaquática, treinamentos, revisões de procedimentos e calibração dos equipamentos é :",
+      "options": [
+        {
+          "label": "A",
+          "text": "O inspetor nível 1."
+        },
+        {
+          "label": "B",
+          "text": "O inspetor Nível 3."
+        },
+        {
+          "label": "C",
+          "text": "O inspetor Nível 2."
+        },
+        {
+          "label": "D",
+          "text": "O inspetor do Sequi."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Norma que fixa as condições exigíveis para a inspeção de mangotes marítimos em operação:",
+      "options": [
+        {
+          "label": "A",
+          "text": "N 1438."
+        },
+        {
+          "label": "B",
+          "text": "N 2073."
+        },
+        {
+          "label": "C",
+          "text": "N 1812."
+        },
+        {
+          "label": "D",
+          "text": "N 1738."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "A periodicidade das inspeções nos sistemas de transferência utilizando monobóias deve ser de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 meses (entre inspeções consecutivas)."
+        },
+        {
+          "label": "B",
+          "text": "1 mês (entre inspeções consecutivas)."
+        },
+        {
+          "label": "C",
+          "text": "4 meses (entre inspeções consecutivas)."
+        },
+        {
+          "label": "D",
+          "text": "3 meses (entre inspeções consecutivas)."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Segundo a Norma 2073 – Inspeção de Mangotes Marítimos em Operação, os danos mais comuns encontrados em mangotes são :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abrasão, camada interna danificada e corrosão no flange."
+        },
+        {
+          "label": "B",
+          "text": "Corte, dano no flange e niple e dobramento."
+        },
+        {
+          "label": "C",
+          "text": "Descolamento da camada de flutuação e espiral danificada."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão corretas"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Norma Petrobras que fixa as condições exigíveis para a inspeção de dutos rígidos submarinos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "N 1815."
+        },
+        {
+          "label": "B",
+          "text": "N 1487."
+        },
+        {
+          "label": "C",
+          "text": "N 1812."
+        },
+        {
+          "label": "D",
+          "text": "N 1738."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text": "A definição de TDP (touch down point) - Região de um duto em catenária cujo contato com o leito marinho varia em função dos movimentos da plataforma a que está conectado. A- Falso. B- Verdadeiro.",
+      "options": []
+    },
+    {
+      "number": 13,
+      "text": "Riser é trecho de duto que interliga o trecho assentado no leito marinho ao trecho instalado na plataforma. A- Falso. B- Verdadeiro.",
+      "options": []
+    },
+    {
+      "number": 14,
+      "text": "Norma Petrobras que define os termos básicos e fundamentais empregados em soldagem.",
+      "options": [
+        {
+          "label": "A",
+          "text": "N 1815."
+        },
+        {
+          "label": "B",
+          "text": "N 1438."
+        },
+        {
+          "label": "C",
+          "text": "N 1812."
+        },
+        {
+          "label": "D",
+          "text": "N 1817."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text": "Corrente Contínua Eletrodo Negativo: Tipo de ligação dos cabos elétricos para soldagem a arco com corrente contínua, na qual a peça é o polo positivo e o eletrodo é o polo negativo do arco elétrico.",
+      "options": [
+        {
+          "label": "A",
+          "text": "- Falso."
+        },
+        {
+          "label": "B",
+          "text": "- Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text": "Solda Homogênea é a solda executada de modo que a composição química do metal de solda seja próxima à do metal de base.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text": "A soldagem manual é uma operação realizada por equipamento de soldagem, sendo que toda a sua seqüência é executada e controlada manualmente. A- falso. B- verdadeiro.",
+      "options": []
+    },
+    {
+      "number": 18,
+      "text": "Gás inerte:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gás que combina quimicamente com o metal de base ou metal de adição em fusão."
+        },
+        {
+          "label": "B",
+          "text": "Gás que não combina quimicamente com o metal de base ou metal de adição em fusão."
+        },
+        {
+          "label": "C",
+          "text": "Gás que influência quimicamente o metal de base ou metal de adição em fusão no processo de soldagem."
+        },
+        {
+          "label": "D",
+          "text": "Gás que interage com o metal de base."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Norma Petrobras que define os termos empregados na denominação de descontinuidades em materiais semi-elaborados ou elaborados, oriundos de processos de fabricação e/ou montagem, soldagem por fusão, fundição, forjamento e laminação.",
+      "options": [
+        {
+          "label": "A",
+          "text": "N 1438."
+        },
+        {
+          "label": "B",
+          "text": "N 1738."
+        },
+        {
+          "label": "C",
+          "text": "N 1815."
+        },
+        {
+          "label": "D",
+          "text": "N 2642."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text": "São fases na vida de uma estrutura oceânica:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Montagem da estrutura."
+        },
+        {
+          "label": "B",
+          "text": "Todas estão corretas."
+        },
+        {
+          "label": "C",
+          "text": "Lançamento e instalação."
+        },
+        {
+          "label": "D",
+          "text": "Fabricação da matéria prima."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text": "Tensão residual é a tensão adquirida pela estrutura durante a sua fabricação, ocasionada pela técnica incorreta tanto na montagem do componente como na soldagem.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text": "A Legislação Internacional especifica as condições e padrões mínimos que devem ser empregados no planejamento, construção, instalação e manutenção de estruturas “offshore”. Cada estrutura marítima deverá ter um Certificado de Classe que é emitido pelas:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sociedades de Inspeção de Classe."
+        },
+        {
+          "label": "B",
+          "text": "Sociedades de Inspetores de Classe."
+        },
+        {
+          "label": "C",
+          "text": "Sociedades de Inspeção de Instalações Marítimas."
+        },
+        {
+          "label": "D",
+          "text": "Sociedades Classificadoras."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Cada estrutura marítima deverá ter um Certificado de Classe que será válido por um período de",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 anos."
+        },
+        {
+          "label": "B",
+          "text": "01 ano."
+        },
+        {
+          "label": "C",
+          "text": "05 anos."
+        },
+        {
+          "label": "D",
+          "text": "04 anos."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text": "São condições oceanográficas que dificultam a inspeção submarina:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ondulações."
+        },
+        {
+          "label": "B",
+          "text": "Correntezas."
+        },
+        {
+          "label": "C",
+          "text": "Todas estão corretas."
+        },
+        {
+          "label": "D",
+          "text": "Profundidade."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Um anodo de sacrifício que apresenta perda de massa localizada, é caracterizado em qual tipo de desgaste:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desgaste galvânico."
+        },
+        {
+          "label": "B",
+          "text": "Desgaste generalizado leve."
+        },
+        {
+          "label": "C",
+          "text": "Desgaste irregular."
+        },
+        {
+          "label": "D",
+          "text": "Desgaste severo localizado."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text": "Tratamento térmico é a mudança das propriedades mecânicas do aço obtida por intermédio de um conjunto de operações de aquecimento e resfriamento, sob condições controladas de temperatura, tempo e velocidade de resfriamento.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text": "Une metais pelo aquecimento destes com um arco elétrico, entre um eletrodo nu (ou vários eletrodos) e o metal de base. O arco está submerso e coberto por uma camada de material granular fusível que é conhecido por fluxo.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Soldagem com eletrodo revestido."
+        },
+        {
+          "label": "B",
+          "text": "Soldagem TIG."
+        },
+        {
+          "label": "C",
+          "text": "Soldagem com arame tubular."
+        },
+        {
+          "label": "D",
+          "text": "Soldagem a arco submerso."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text": "É a união de metais pelo aquecimento oriundo de um arco elétrico entre um eletrodo revestido e o metal de base, na junta a ser soldada.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Soldagem a arco submerso."
+        },
+        {
+          "label": "B",
+          "text": "Soldagem com eletrodo revestido."
+        },
+        {
+          "label": "C",
+          "text": "Soldagem TIG."
+        },
+        {
+          "label": "D",
+          "text": "Soldagem hiperbárica com arame tubular."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text": "O revestimento do eletrodo, no processo de soldagem com eletrodo revestido, tem funções importantes que podem ser:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Elétricas."
+        },
+        {
+          "label": "B",
+          "text": "Físicas e mecânicas."
+        },
+        {
+          "label": "C",
+          "text": "Metalúrgicas."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão corretas."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text": "Esta pilha é formada por concentrações diferentes de oxigênio em um mesmo material.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pilha de corrosão."
+        },
+        {
+          "label": "B",
+          "text": "Pilha galvânica."
+        },
+        {
+          "label": "C",
+          "text": "Pilha de aeração diferencial."
+        },
+        {
+          "label": "D",
+          "text": "Pilha de concentração iônica."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text": "As pilhas ou células de corrosão eletroquímica são responsáveis pela deterioração do material metálico. Uma pilha de corrosão é constituída:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anodo, catodo, ligação metálica e eletrólito."
+        },
+        {
+          "label": "B",
+          "text": "Anodo, catodo, resistividade e passivação."
+        },
+        {
+          "label": "C",
+          "text": "Polarização, passivação, pH e resistividade."
+        },
+        {
+          "label": "D",
+          "text": "Nenhuma das alternativas."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text": "O fluxo de elétrons origina-se da diferença de potencial existente entre o metal a proteger e outro escolhido como anodo, e que ocupa uma posição mais elevada na tabela de potenciais.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Proteção catódica por corrente impressa."
+        },
+        {
+          "label": "B",
+          "text": "Proteção oxi-redutiva."
+        },
+        {
+          "label": "C",
+          "text": "Proteção anódica por desgaste controlado."
+        },
+        {
+          "label": "D",
+          "text": "Proteção catódica por anodo galvânico de sacrifício."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Dos exemplos citados abaixo, qual das ferramentas de limpeza utilizadas na inspeção subaquática não é mecanizada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agulheiro pneumático."
+        },
+        {
+          "label": "B",
+          "text": "Escova de aço montada sobre ferramenta hidráulica."
+        },
+        {
+          "label": "C",
+          "text": "Furadeira montada sobre ferramenta hidráulica."
+        },
+        {
+          "label": "D",
+          "text": "Raspadeira de aço."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "text": "Assinale a afirmativa correta a respeito da seguinte descrição: é uma não conformidade no material que afeta a integridade da peça, podendo comprometer sua utilização futura.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Descontinuidade."
+        },
+        {
+          "label": "B",
+          "text": "Defeito."
+        },
+        {
+          "label": "C",
+          "text": "Duas alternativas são corretas."
+        },
+        {
+          "label": "D",
+          "text": "Deformação."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "text": "De acordo com a norma ABNT NBR 16244, a corrosão alveolar, quanto à intensidade, pode ser classificada em:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tipo I, II, III, IV."
+        },
+        {
+          "label": "B",
+          "text": "Leve, média e severa."
+        },
+        {
+          "label": "C",
+          "text": "Forte, média e fraca."
+        },
+        {
+          "label": "D",
+          "text": "Fraca, atuante e intensa."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Quanto a extensão, o processo corrosivo pode ser:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Centralizado, localizado e disperso."
+        },
+        {
+          "label": "B",
+          "text": "Localizado, generalizado e inconstante."
+        },
+        {
+          "label": "C",
+          "text": "Localizado, generalizado e centralizado."
+        },
+        {
+          "label": "D",
+          "text": "Localizado, generalizado e disperso."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "text": "A corrosão eletroquímica é um processo que se realiza:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Na presença de água."
+        },
+        {
+          "label": "B",
+          "text": "Em geral na temperatura ambiente."
+        },
+        {
+          "label": "C",
+          "text": "Devido a formação de uma pilha ou célula de corrosão."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas são corretas."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Os tipos de corrosões mais comuns na inspeção subaquática:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alveolar, uniforme e por placas."
+        },
+        {
+          "label": "B",
+          "text": "Alveolar, pitiforme e por esfoliação."
+        },
+        {
+          "label": "C",
+          "text": "Alveolar, uniforme e pitiforme."
+        },
+        {
+          "label": "D",
+          "text": "Alveolar, pitiforme e transgranular."
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Quando na inspeção de um anodo galvânico de sacrifício o inspetor verifica que parte da alma do anodo está exposta, havendo pouca massa, o desgaste é caracterizado como:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desgaste generalizado intenso."
+        },
+        {
+          "label": "B",
+          "text": "Desgaste irregular."
+        },
+        {
+          "label": "C",
+          "text": "Desgaste generalizado médio."
+        },
+        {
+          "label": "D",
+          "text": "Desgaste generalizado severo."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "text": "São considerados danos mecânicos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "amassamento, rasgo e corrosão."
+        },
+        {
+          "label": "B",
+          "text": "mossa, colapso hidrostático e erosão."
+        },
+        {
+          "label": "C",
+          "text": "Corte, puncionamento e assoreamento."
+        },
+        {
+          "label": "D",
+          "text": "Nenhumas das alternativas acima."
+        }
+      ]
+    }
+  ]
+}

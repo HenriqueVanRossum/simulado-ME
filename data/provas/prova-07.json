@@ -1,0 +1,843 @@
+{
+  "prova": "07",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Um anodo de sacrifício que apresenta perda de massa localizada, é caracterizado em qual tipo de desgaste:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desgaste galvânico."
+        },
+        {
+          "label": "B",
+          "text": "Desgaste generalizado leve."
+        },
+        {
+          "label": "C",
+          "text": "Desgaste irregular."
+        },
+        {
+          "label": "D",
+          "text": "Desgaste severo localizado."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Qual das descontinuidades abaixo podem ser detectadas na inspeção visual subaquática:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sobreposição."
+        },
+        {
+          "label": "B",
+          "text": "Reforço excessivo."
+        },
+        {
+          "label": "C",
+          "text": "Deposição insuficiente."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão corretas."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "Assinale a alternativa falsa: na inspeção visual direta podemos verificar:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Processos corrosivos."
+        },
+        {
+          "label": "B",
+          "text": "Danos mecânicos."
+        },
+        {
+          "label": "C",
+          "text": "Descontinuidades no revestimento protetor."
+        },
+        {
+          "label": "D",
+          "text": "Problemas na distribuição da corrente de proteção catódica."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "São equipamentos de limpeza proibidos na preparação de uma superfície metálica para posterior inspeção visual detalhada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hidrojateamento com areia."
+        },
+        {
+          "label": "B",
+          "text": "Martelete de agulhas."
+        },
+        {
+          "label": "C",
+          "text": "Jato de areia."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão corretas."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Indique dentre as descontinuidades citadas abaixo qual não está localizada na zona fundida:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rechupe de cratera."
+        },
+        {
+          "label": "B",
+          "text": "Poros."
+        },
+        {
+          "label": "C",
+          "text": "Mordedura."
+        },
+        {
+          "label": "D",
+          "text": "Deposição insuficiente."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "São revestimentos protetores muito utilizados em dutos subaquáticos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coaltar."
+        },
+        {
+          "label": "B",
+          "text": "Monel."
+        },
+        {
+          "label": "C",
+          "text": "Massa epóxi."
+        },
+        {
+          "label": "D",
+          "text": "Asfalto."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "São descontinuidades geralmente localizadas no metal de base:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abertura de arco."
+        },
+        {
+          "label": "B",
+          "text": "Deposição insuficiente."
+        },
+        {
+          "label": "C",
+          "text": "Trinca interlamelar."
+        },
+        {
+          "label": "D",
+          "text": "Existe uma resposta errada."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "Norma que fixa as condições exigíveis para a inspeção de mangotes marítimos em operação:",
+      "options": [
+        {
+          "label": "A",
+          "text": "N 1438."
+        },
+        {
+          "label": "B",
+          "text": "N 2073."
+        },
+        {
+          "label": "C",
+          "text": "N 1812."
+        },
+        {
+          "label": "D",
+          "text": "N 1738."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "Revestimento encontrado em dutos rígidos da Bacia de Campos, composto de uma liga de níquel e cobre:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enamel."
+        },
+        {
+          "label": "B",
+          "text": "Teflon."
+        },
+        {
+          "label": "C",
+          "text": "Monel."
+        },
+        {
+          "label": "D",
+          "text": "Poliuretano."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Não conformidades que ocorrem devido a danos ocasionados por um agente externo:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abrasão."
+        },
+        {
+          "label": "B",
+          "text": "Corte."
+        },
+        {
+          "label": "C",
+          "text": "Mossa."
+        },
+        {
+          "label": "D",
+          "text": "Todas estão certas."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Norma Petrobras que fixa as condições exigíveis para a inspeção de dutos rígidos subaquáticos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "N 1815."
+        },
+        {
+          "label": "B",
+          "text": "N 1487."
+        },
+        {
+          "label": "C",
+          "text": "N 1812."
+        },
+        {
+          "label": "D",
+          "text": "N 1738."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Processo de soldagem a arco elétrico que possui um revestimento que envolve o eletrodo.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Soldagem a arco submerso."
+        },
+        {
+          "label": "B",
+          "text": "Soldagem TIG."
+        },
+        {
+          "label": "C",
+          "text": "Soldagem Mig."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão erradas."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text": "Riser é trecho vertical de duto que interliga o trecho assentado no leito marinho ao trecho instalado na plataforma. A- Falso. B- Verdadeiro.",
+      "options": []
+    },
+    {
+      "number": 14,
+      "text": "Norma Petrobras que define os termos básicos e fundamentais empregados em soldagem.",
+      "options": [
+        {
+          "label": "A",
+          "text": "N 1815."
+        },
+        {
+          "label": "B",
+          "text": "N 1438."
+        },
+        {
+          "label": "C",
+          "text": "N 1812."
+        },
+        {
+          "label": "D",
+          "text": "N 1817."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text": "O que significa o termo “as laid”: A- ligação flangeada unindo os tramos dinâmico (riser) e estático (flowline) do duto. B- diâmetro externo. C-filmagem das linhas lançadas no fundo mar, mostrando as rotas traçadas. D- o valor que expressa a potência do flash.",
+      "options": []
+    },
+    {
+      "number": 16,
+      "text": "Equipamento mecânico instalado na cabeça-de-poço (“wellhead”), composto, basicamente, de conectores e válvulas, com a finalidade de interligar as tubulações internas e externas ao poço, e de permitir o controle do fluxo de fluidos através dele.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Árvore de natal."
+        },
+        {
+          "label": "B",
+          "text": "Manifold central."
+        },
+        {
+          "label": "C",
+          "text": "Plem."
+        },
+        {
+          "label": "D",
+          "text": "BOP."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Organização que desenvolve regras para projetos, construção, inspeção e manutenção de embarcações, visando garantir padrões adequados para essas finalidades.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sociedade Naval."
+        },
+        {
+          "label": "B",
+          "text": "Sociedade Marítima."
+        },
+        {
+          "label": "C",
+          "text": "Socidedade Aquática."
+        },
+        {
+          "label": "D",
+          "text": "Sociedade Classificadora."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text": "Estrutura vertical de grandes dimensões, que suporta o convés (“deck”) e contribui para a flutuação e estabilidade de plataformas semissubmersíveis:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perna."
+        },
+        {
+          "label": "B",
+          "text": "Balaustrada."
+        },
+        {
+          "label": "C",
+          "text": "Coluna."
+        },
+        {
+          "label": "D",
+          "text": "Viga."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text": "Dispositivo montado nas pernas das plataformas e outras unidades para protegê-las dos abalroamentos das embarcações de serviço:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sistema amortecedor."
+        },
+        {
+          "label": "B",
+          "text": "Sistema anti-abalroamento"
+        },
+        {
+          "label": "C",
+          "text": "Defensa."
+        },
+        {
+          "label": "D",
+          "text": "Batente."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Acessório com formato de uma camisa cônica, instalado em uma linha flexível para aumentar a rigidez e evitar danos na linha:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enrijecedor."
+        },
+        {
+          "label": "B",
+          "text": "Fixador."
+        },
+        {
+          "label": "C",
+          "text": "Eliminador de tensão."
+        },
+        {
+          "label": "D",
+          "text": "Restritor."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text": "Elemento de uma plataforma fixa de aço responsável pelo travamento e reforço da jaqueta.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contraventamento."
+        },
+        {
+          "label": "B",
+          "text": "Bracing."
+        },
+        {
+          "label": "C",
+          "text": "Membro estrutural."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão corretas."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text": "Configuração geométrica adquirida por linhas flexíveis devido ao peso próprio, quando suspensas por uma ou ambas as extremidades:",
+      "options": [
+        {
+          "label": "A",
+          "text": "TDP."
+        },
+        {
+          "label": "B",
+          "text": "Flambagem."
+        },
+        {
+          "label": "C",
+          "text": "Catenária."
+        },
+        {
+          "label": "D",
+          "text": "Raio de curvatura."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text": "Plano horizontal das jaquetas, que contêm elementos estruturais de travamento e/ou guias de condutores.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mesa."
+        },
+        {
+          "label": "B",
+          "text": "Plano de membros."
+        },
+        {
+          "label": "C",
+          "text": "Elevação."
+        },
+        {
+          "label": "D",
+          "text": "Existem duas respostas corretas."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text": "São polias móveis lateralmente instaladas no casco de plataformas flutuantes com o objetivo de guiar as linhas de amarração:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guia de condutor."
+        },
+        {
+          "label": "B",
+          "text": "Guia da linha de ancoragem."
+        },
+        {
+          "label": "C",
+          "text": "Guia de atracadouro."
+        },
+        {
+          "label": "D",
+          "text": "Guia de estaca."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text": "Técnica de proteção anticorrosiva das estruturas metálicas onde se usam anodos inertes. O método utiliza uma fonte externa de geração de corrente contínua para eliminação das pilhas de corrosão existentes nas superfícies metálicas que se deseja proteger:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Galvanização."
+        },
+        {
+          "label": "B",
+          "text": "Proteção catódica por anodos de sacrifício."
+        },
+        {
+          "label": "C",
+          "text": "Metalização."
+        },
+        {
+          "label": "D",
+          "text": "Proteção catódica por corrente impressa."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text": "Tipo de plataforma apoiada ao fundo do mar por 3 ou mais pernas, possuindo um mecanismo de auto elevação do convés para sua adaptação em diferentes alturas de lâmina d’água.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plataforma fixa de aço."
+        },
+        {
+          "label": "B",
+          "text": "Plataforma autoelevatória."
+        },
+        {
+          "label": "C",
+          "text": "Plataforma semissubmersível."
+        },
+        {
+          "label": "D",
+          "text": "Plataforma fixa de concreto."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text": "O que é um flash slave:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flash que reduz o tamanho em bytes de um arquivo."
+        },
+        {
+          "label": "B",
+          "text": "Flash dotado de elemento fotossensível, que é acionado pela luz de outro flash."
+        },
+        {
+          "label": "C",
+          "text": "Flash que permite a passagem de somente uma faixa do espectro de luz."
+        },
+        {
+          "label": "D",
+          "text": "Flash cuja finalidade é uniformizar a iluminação, reduzindo/eliminando reflexos."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text": "Solda executada por fusão de materiais sem a participação de metal de adição.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Soldagem a arco submerso."
+        },
+        {
+          "label": "B",
+          "text": "Soldagem com eletrodo revestido."
+        },
+        {
+          "label": "C",
+          "text": "Soldagem autógena."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão corretas."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Corrente contínua eletrodo negativo é um tipo de ligação dos cabos elétricos para soldagem a arco com corrente contínua, na qual a peça é o pólo positivo e o eletrodo é o pólo negativo do arco elétrico. Também pode ser chamada de:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polaridade reversa."
+        },
+        {
+          "label": "B",
+          "text": "Polaridade direta."
+        },
+        {
+          "label": "C",
+          "text": "Polaridade indireta."
+        },
+        {
+          "label": "D",
+          "text": "Não existe alternativa correta."
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text": "São zonas de uma junta soldada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Metal da base."
+        },
+        {
+          "label": "B",
+          "text": "Zona afetada pelo calor."
+        },
+        {
+          "label": "C",
+          "text": "Zona de ligação."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas são corretas."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text": "Profundidade de campo é:",
+      "options": [
+        {
+          "label": "A",
+          "text": "uma aberração ótica ocasionada pela refração da luz no ambiente aquático."
+        },
+        {
+          "label": "B",
+          "text": "o grau de ampliação da imagem que será gerada."
+        },
+        {
+          "label": "C",
+          "text": "o intervalo de distâncias na frente da câmera, onde a imagem terá uma definição aceitável."
+        },
+        {
+          "label": "D",
+          "text": "lâmina d’água (profundidade)."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Tratamento térmico é a mudança das propriedades mecânicas do aço obtida por intermédio de um conjunto de operações de aquecimento e resfriamento, sob condições controladas de temperatura, tempo e velocidade de resfriamento. É um tipo de tratamento térmico:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Goivamento."
+        },
+        {
+          "label": "B",
+          "text": "Galvanoplastia."
+        },
+        {
+          "label": "C",
+          "text": "Fundição."
+        },
+        {
+          "label": "D",
+          "text": "Têmpera."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "text": "É uma técnica onde tanto o soldador como as regiões a soldar estão em contato direto com o meio aquoso. Ela é realizada utilizando o processo de soldagem manual ao arco elétrico com eletrodo revestido.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Soldagem autógena."
+        },
+        {
+          "label": "B",
+          "text": "Soldagem hiperbárica seca."
+        },
+        {
+          "label": "C",
+          "text": "Soldagem oxi-acetilênica."
+        },
+        {
+          "label": "D",
+          "text": "Soldagem hiperbárica molhada."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "text": "Os eletrodos de referência, no sistema de proteção por corrente impressa, tem como função:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verificar a eficiência do sistema de proteção medindo o potencial entre a estrutura e o eletrólito."
+        },
+        {
+          "label": "B",
+          "text": "Verificar a eficiência do sistema de proteção medindo a resistividade elétrica da água do mar."
+        },
+        {
+          "label": "C",
+          "text": "Verificar a eficiência do sistema de proteção medindo a resistividade do metal a ser protegido."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas são falsas."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "text": "É um equipamento utilizado na limpeza mecanizada de estruturas metálicas:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raspadeira de aço."
+        },
+        {
+          "label": "B",
+          "text": "Escova de aço."
+        },
+        {
+          "label": "C",
+          "text": "Ferramenta hidráulica com escova rotativa."
+        },
+        {
+          "label": "D",
+          "text": "Puncionador."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "text": "A profundidade de campo é afetada:",
+      "options": [
+        {
+          "label": "A",
+          "text": "pela abertura do diafragma."
+        },
+        {
+          "label": "B",
+          "text": "pela distância do objeto em relação à câmera."
+        },
+        {
+          "label": "C",
+          "text": "todas as respostas estão corretas."
+        },
+        {
+          "label": "D",
+          "text": "pela distância focal da lente."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Durante a inspeção subaquática de um componente estrutural de uma instalação marítima, o inspetor visual abriu várias janelas de inspeção na incrustação marinha, procurando com isso a detecção de qualquer não conformidade. Essa técnica de inspeção caracteriza a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inspeção visual localizada"
+        },
+        {
+          "label": "B",
+          "text": "Inspeção visual detalhada"
+        },
+        {
+          "label": "C",
+          "text": "Inspeção visual específica"
+        },
+        {
+          "label": "D",
+          "text": "Inspeção visual geral"
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Assinalar verdadeira ou falsa na afirmativa abaixo: “A inspeção visual realizada em componentes submersos de instalações marítimas para a detecção de um dano específico, que pode necessitar ou não de limpeza, dependendo do tamanho da ocorrência ou do nível da incrustação marinha, caracteriza a inspeção visual detalhada”.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falsa"
+        },
+        {
+          "label": "B",
+          "text": "Verdadeira"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "text": "Na inspeção de uma jaqueta de plataforma fixa de aço, o inspetor verificou que em um contraventamento existia uma haste de anodo. Como ele inspeciona:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Desgaste, fixação, seção, incrustração, danos e sucatas."
+        },
+        {
+          "label": "B",
+          "text": "Desgaste, fixação, seção."
+        },
+        {
+          "label": "C",
+          "text": "Relata a presença de uma haste de anodo e verifica a sua fixação e integridade."
+        },
+        {
+          "label": "D",
+          "text": "Desgaste generalizado severo."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "text": "São considerados danos mecânicos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "amassamento, rasgo e puncionamento."
+        },
+        {
+          "label": "B",
+          "text": "mossa, colapso hidrostático e abrasão."
+        },
+        {
+          "label": "C",
+          "text": "Corte, puncionamento e empeno."
+        },
+        {
+          "label": "D",
+          "text": "Todas as alternativas estão corretas."
+        }
+      ]
+    }
+  ]
+}

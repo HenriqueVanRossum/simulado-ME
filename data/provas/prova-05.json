@@ -1,0 +1,780 @@
+{
+  "prova": "05",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Assinale verdadeiro ou falso, em relação a afirmativa abaixo: Trincas de fadiga ocorrem em estruturas metálicas submersas e apresentam orientação predominantemente longitudinal à solda e localizam-se normalmente na margem da solda.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeiro."
+        },
+        {
+          "label": "B",
+          "text": "Falso."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "text": "Assinale verdadeiro ou falso em relação a afirmativa abaixo: Os equipamentos elétricos para uso submerso devem possuir relê de fuga (desarme) para evitar riscos de choques ao mergulhador.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "text": "A definição a seguir, corresponde ou não ao componente cone:\" Trecho de ligação entre um tronco (can) e o restante da corda (chord) ou entre uma ramificação (stub) e o restante do contraventamento (bracing) quando há variação no diâmetro\".",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "text": "A definição de coletor ( manifold ) corresponde a um conjunto de tubos interligando diversas linhas de chegada com uma ou mais saídas, contendo válvulas e instrumentos para o controle do fluxo de fluídos.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeiro."
+        },
+        {
+          "label": "B",
+          "text": "Falso."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "text": "Assinale verdadeiro ou falso, em relação a afirmativa abaixo: Quando se detecta corrosão em um membro estrutural, deve-se classificar a corrosão, dimensionar a área afetada e dimensionar por amostragem a profundidade dos pites quando for o caso.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeiro."
+        },
+        {
+          "label": "B",
+          "text": "Falso."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "text": "Onde deve ser dada mais atenção durante a verificação da existência de corrosão em membros estruturais de uma estrutura metálica submersa?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nas regiões mais afastadas do anodo."
+        },
+        {
+          "label": "B",
+          "text": "Nos membros mais próximos ao leito."
+        },
+        {
+          "label": "C",
+          "text": "Em juntas soldadas."
+        },
+        {
+          "label": "D",
+          "text": "Todas as respostas estão corretas."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "text": "A inspeção do leito marinho, na região da jaqueta e proximidades, objetiva verificar:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A existência de sucata."
+        },
+        {
+          "label": "B",
+          "text": "A ocorrência de erosão ou assoreamento da estrutura."
+        },
+        {
+          "label": "C",
+          "text": "A ocorrência de abrasão ou assoreamento da estrutura."
+        },
+        {
+          "label": "D",
+          "text": "Existem duas respostas corretas."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "text": "São revestimentos bastante utilizados em instalações marítimas:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Asfalto, pintura, massa epóxi e concreto."
+        },
+        {
+          "label": "B",
+          "text": "Massa epóxi e enamel."
+        },
+        {
+          "label": "C",
+          "text": "Coaltar e concreto."
+        },
+        {
+          "label": "D",
+          "text": "Existe mais de uma resposta correta."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "text": "Revestimento bastante utilizado para cobrir superfícies metálicas na zona de variação de maré:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coaltar."
+        },
+        {
+          "label": "B",
+          "text": "Enamel."
+        },
+        {
+          "label": "C",
+          "text": "Massa epóxi."
+        },
+        {
+          "label": "D",
+          "text": "Massa corrida."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "text": "Revestimento que tem função básica de dar lastro em linhas de escoamento de produtos:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coa1tar."
+        },
+        {
+          "label": "B",
+          "text": "Concreto."
+        },
+        {
+          "label": "C",
+          "text": "Massa epóxi."
+        },
+        {
+          "label": "D",
+          "text": "Asfalto."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "text": "Revestimento utilizado em dutos submarinos ou terrestres, constituído basicamente de alcatrão de hu1ha:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monel."
+        },
+        {
+          "label": "B",
+          "text": "Coaltar."
+        },
+        {
+          "label": "C",
+          "text": "Massa epóxi."
+        },
+        {
+          "label": "D",
+          "text": "Concreto."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "text": "Revestimento composto por níquel e cobre, altamente resistente a corrosão devido à formação de uma camada passivante:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Monel."
+        },
+        {
+          "label": "B",
+          "text": "Enamel."
+        },
+        {
+          "label": "C",
+          "text": "Coaltar."
+        },
+        {
+          "label": "D",
+          "text": "Massa epóxi."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "text": "Conjunto de operações que visam depositar sobre uma superfície metálica ou não, uma película de viscosidade moderada que tende a endurecer com o tempo:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eletrodeposição resistiva."
+        },
+        {
+          "label": "B",
+          "text": "Pintura"
+        },
+        {
+          "label": "C",
+          "text": "Hidrojateamento"
+        },
+        {
+          "label": "D",
+          "text": "Fostatização"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "text": "Qual das a1ternativas não está relacionada com descontinuidades detectadas na raiz de soldas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reforço excessivo."
+        },
+        {
+          "label": "B",
+          "text": "Perfuração."
+        },
+        {
+          "label": "C",
+          "text": "Excesso de penetração."
+        },
+        {
+          "label": "D",
+          "text": "Falta de fusão."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "text": "Assinale a alternativa falsa: na inspeção visual direta podemos verificar:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Problemas no revestimento de epóxi."
+        },
+        {
+          "label": "B",
+          "text": "Incrustações marinhas."
+        },
+        {
+          "label": "C",
+          "text": "EficiêncIa do sistema de proteção catódica."
+        },
+        {
+          "label": "D",
+          "text": "Deformações e danos mecânicos em geral na estrutura."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "text": "A capacidade de resolução do ensaio visual pelo método remoto nem sempre será maior que a do método direto, mesmo que utilize equipamentos mais sofisticados.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeiro."
+        },
+        {
+          "label": "B",
+          "text": "Falso."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "text": "Os tubos flexíveis (riser's) são utilizados em instalações offshore para:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Escoamento de óleo e gás."
+        },
+        {
+          "label": "B",
+          "text": "Escoamento de óleo diesel e água salgada."
+        },
+        {
+          "label": "C",
+          "text": "Escoamento de produtos inflamáveis."
+        },
+        {
+          "label": "D",
+          "text": "Escoamento de todos os tipos de derivados de petróleo."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "text": "Rechupe numa peça fundida, é causado pela:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Retenção de gases no líquido devido ao aumento da sua viscosidade pela queda de temperatura."
+        },
+        {
+          "label": "B",
+          "text": "Quebra do molde de areia."
+        },
+        {
+          "label": "C",
+          "text": "Inclusão de escória."
+        },
+        {
+          "label": "D",
+          "text": "Contração de volume (que ocorre durante a passagem do estado líquido para o sólido)."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "text": "O mecanismo de proteção da massa epóxi à estrutura ocorre por:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Barreira metálica."
+        },
+        {
+          "label": "B",
+          "text": "Barreira entre a superfície a proteger e os agentes corrosivos."
+        },
+        {
+          "label": "C",
+          "text": "Formação de sabões metálicos."
+        },
+        {
+          "label": "D",
+          "text": "Pigmentos anticorrosivos inibidores."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "text": "Descontinuidades planares não são mais perigosas para a estrutura, do ponto de vista de fratura do que descontinuidades volumétricas.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeiro."
+        },
+        {
+          "label": "B",
+          "text": "Falso."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "text": "As atividades de inspeção visual de erosão e/ou assoreamento de leito marinho, revestimento, flecha máxima entre vãos livres, danos mecânicos e anodos, aplicam-se em :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sistema de amarração de bóias."
+        },
+        {
+          "label": "B",
+          "text": "Estruturas de plataformas de concreto."
+        },
+        {
+          "label": "C",
+          "text": "Dutos de aço para transporte de petróleo."
+        },
+        {
+          "label": "D",
+          "text": "Mangotes marítimos flutuantes."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "text": "As incrustações marinhas quanto à natureza podem ser classificadas como:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Localizadas e generalizadas."
+        },
+        {
+          "label": "B",
+          "text": "Duras ou moles."
+        },
+        {
+          "label": "C",
+          "text": "Vegetais ou calcáreas."
+        },
+        {
+          "label": "D",
+          "text": "Animais ou alcalinas."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "text": "O revestimento de massa epóxi caracteriza-se por:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poder ser aplicado por trincha em várias demãos."
+        },
+        {
+          "label": "B",
+          "text": "Apresentar como defeito característico o empolamento."
+        },
+        {
+          "label": "C",
+          "text": "Ser um revestimento de grande espessura, alta dureza e resistência mecânica."
+        },
+        {
+          "label": "D",
+          "text": "Sofrer gretamento quando em superfície submersa."
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "text": "Qual das alternativas está relacionada com vazio devido a contração da zona fundida:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mordedura."
+        },
+        {
+          "label": "B",
+          "text": "Trincas."
+        },
+        {
+          "label": "C",
+          "text": "Rechupe de cratera."
+        },
+        {
+          "label": "D",
+          "text": "Falta de penetração."
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "text": "O processo por forjamento, consiste em:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transformação dos metais por prensagem e martelamento."
+        },
+        {
+          "label": "B",
+          "text": "Transformação dos materiais não metálicos por martelamento."
+        },
+        {
+          "label": "C",
+          "text": "Transformação dos materiais não metálicos por prensagem ou martelamento."
+        },
+        {
+          "label": "D",
+          "text": "Transformação dos metais por martelamento."
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "text": "A finalidade do ensaio visual submarino é:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Identificar os metais e ligas metálicas mais utilizados nas estruturas offshore e dutos submarinos."
+        },
+        {
+          "label": "B",
+          "text": "Detectar defeitos volumétricos no interior da solda."
+        },
+        {
+          "label": "C",
+          "text": "Localizar descontinuidades superficiais e subsuperficiais em peças de materiais ferromagnético."
+        },
+        {
+          "label": "D",
+          "text": "Avaliar as condições de estruturas offshore e dutos submarinos, na zona compreendida entre o nível da maré e o fundo do mar."
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "text": "O ensaio visual submarino não tem como campo de aplicação:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plataformas de concreto."
+        },
+        {
+          "label": "B",
+          "text": "Tanques de flutuação."
+        },
+        {
+          "label": "C",
+          "text": "Dutos terrestres."
+        },
+        {
+          "label": "D",
+          "text": "Monobóias."
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "text": "Conector hidráulico chama-se:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tubo I (Itube)."
+        },
+        {
+          "label": "B",
+          "text": "Ttubo J (J tube)."
+        },
+        {
+          "label": "C",
+          "text": "Condutor Articu1ado( Marine Riser )."
+        },
+        {
+          "label": "D",
+          "text": "Casing ( tubo de revestimento)."
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "text": "Quando se deseja realçar imperfeições subsuperficiais, a incidência do feixe luminoso deve ser oblíqua em relação a superfície, para que se observe o efeito de luz e sombra.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "Verdadeiro"
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "text": "No processo de soldagem com eletrodo revestido, a escória que se forma na superfície da solda não influencia a taxa de resfriamento do metal de solda depositado.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verdadeira."
+        },
+        {
+          "label": "B",
+          "text": "Falso."
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "text": "Dobras de forjamento são causadas por:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subaquecimento do material."
+        },
+        {
+          "label": "B",
+          "text": "Carepas de óxido incrustadas profundamente na superfície da peça."
+        },
+        {
+          "label": "C",
+          "text": "Rebarba excessiva."
+        },
+        {
+          "label": "D",
+          "text": "Dobras de metal comprimidas contra a superfície da peça."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "text": "Na laminação de uma chapa de aço, o metal ao passar entre os cilindros do laminador, sofre deformação:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plástica, a espessura é reduzida e o comprimento e a largura são aumentados."
+        },
+        {
+          "label": "B",
+          "text": "Elástica, a espessura permanece constante e o comprimento e a largura são aumentados."
+        },
+        {
+          "label": "C",
+          "text": "Plástica, a espessura permanece constante e o comprimento e a largura são aumentados."
+        },
+        {
+          "label": "D",
+          "text": "Elástica, a espessura é reduzida, o comprimento é aumentado e a largura permanece constante."
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "text": "Com relação à mordedura, assinale a afirmativa correta:",
+      "options": [
+        {
+          "label": "A",
+          "text": "É uma depressão transversal ao cordão de solda."
+        },
+        {
+          "label": "B",
+          "text": "É causada por problemas de alinhamento das peças."
+        },
+        {
+          "label": "C",
+          "text": "Localiza-se no metal de base acompanhando a margem da solda."
+        },
+        {
+          "label": "D",
+          "text": "Localiza-se apenas no interior do chanfro."
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "text": "A função do revestimento do eletrodo, no processo de soldagem com eletrodo revestido, é gerar gases que formam a atmosfera protetora da poça de fusão, além de fornecer elementos que permitem estabilizar o arco, desoxidar o banho e introduzir elementos de liga na solda.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Falso."
+        },
+        {
+          "label": "B",
+          "text": "verdadeiro."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "text": "O relatório final de inspeção é feito:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fotografias e televisionamento das ocorrências"
+        },
+        {
+          "label": "B",
+          "text": "Relatório escrito e croqui."
+        },
+        {
+          "label": "C",
+          "text": ". Gravação de relatório em fita VHS, CD ou DVD."
+        },
+        {
+          "label": "D",
+          "text": ". Todas as alternativas estão corretas."
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "text": "Indique entre os métodos citados abaixo qual não deve ser utilizado p/ a preparação da superfície anterior ao exame visual:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Limpeza manual."
+        },
+        {
+          "label": "B",
+          "text": "Jato de areia."
+        },
+        {
+          "label": "C",
+          "text": "Limpeza com escova hidráulica."
+        },
+        {
+          "label": "D",
+          "text": "Calafetagem."
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "text": "Um procedimento de inspeção visual é revisado quando:",
+      "options": [
+        {
+          "label": "A",
+          "text": "O supervisor de mergulho solicitar."
+        },
+        {
+          "label": "B",
+          "text": "Quando qualquer item de inspeção da Norma for alterado."
+        },
+        {
+          "label": "C",
+          "text": "Quando o certificado de classe terminar."
+        },
+        {
+          "label": "D",
+          "text": "Quando o tempo de mergulho for inadequado ao trabalho."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "text": "Identifique se a afirmativa a seguir é verdadeira ou falsa: \"Colapso hidrostático é a deformação elástica da seção transversal de um componente tubular causada pela ação da pressão hidrostática externa\". A- Verdadeira. B- Falsa.",
+      "options": []
+    },
+    {
+      "number": 39,
+      "text": "Assinale dentre as alternativas abaixo, uma limitação do ensaio visual em comparação a outros ensaios:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depende grandemente da experiência e conhecimento de soldagem por parte do inspetor."
+        },
+        {
+          "label": "B",
+          "text": "É limitado a materiais magnéticos e não magnéticos. C- É limitado a detecção de descontinuidades superficiais. D- pode ser executado em juntas de geometria complexa, como nós de estruturas tubulares."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "text": "Indique dentre as alternativas abaixo, a descontinuidade ou irregularidade não detectada pelo ensaio visual subaquático:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sinais de erosão ou assoreamento."
+        },
+        {
+          "label": "B",
+          "text": "Presença de corrosão."
+        },
+        {
+          "label": "C",
+          "text": "Inclusão de escória interna."
+        },
+        {
+          "label": "D",
+          "text": "Respingo de solda"
+        }
+      ]
+    }
+  ]
+}
